@@ -2,7 +2,7 @@ import java.io.File;
 import java.nio.file.Files;
 import javax.swing.JOptionPane;
 
-public class Test{
+public class Main{
     public static void main(String[] args) {
 
         String path = "C:\\Program Files (x86)\\Roblox\\Versions";

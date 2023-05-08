@@ -5,6 +5,7 @@ This Java Program Automatically Adds ClientAppSettings Into Roblox.
 (This Is Also My First Offical Java Project)
 
 To My Knowledge This Works With Windows Only
+
 I Will Try To Make Separate Versions For Linux And MacOS
 
 

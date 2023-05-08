@@ -7,4 +7,7 @@ This Java Program Automatically Adds ClientAppSettings Into Roblox.
 
 # How To Use It:
 
-Just Run The Executable As An Administrator And It Will Do All The Work For You!
+1. Download The Zip And Extract It.
+2. Be Sure You Have The Java Runtime Environment : https://www.java.com/en/download/ (I Will Eventally Make Another Verison Of This In C# or C++).
+3. Run The Executable As An Administrator.
+4. Now You Can Use Alt + Enter For True Full Screen.
